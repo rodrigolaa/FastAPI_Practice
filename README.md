@@ -13,6 +13,9 @@ This project has the porpuse to build hands-on activities with Golang language p
 
 - API project design; 
 - Retrieving information from database;
+- CRUD operations,
+- HTML & CSS - Bootstrap,
+- Jinja2 HTML pages,
 - Testing endpoints, 
 - Swagger documentation
 
