@@ -3,5 +3,5 @@ todo_app.db
 venv/*
 practice_env/*
 badges/*
-*.png
+#*.png
 #Udemy_FastApi/project/2_advanced_python_and_concepts/practice_env/*
