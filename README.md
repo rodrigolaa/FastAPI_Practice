@@ -9,7 +9,7 @@
 
 ## Description
 
-This project has the porpuse to build hands-on activities with Golang language programing  to understand the basic concepts of this language, such as:
+This project has the porpuse to build hands-on activities with FastAPI framework  to understand the main points to develop custom API, such as:
 
 - API project design; 
 - Retrieving information from database;
