@@ -15,11 +15,27 @@ This project has the porpuse to build hands-on activities with FastAPI framework
 - Retrieving information from database;
 - CRUD operations,
 - HTML & CSS - Bootstrap,
-- Jinja2 HTML pages,
-- Testing endpoints, 
-- Swagger documentation
+- Jinja2 HTML pages
 
+## Projects:
 
+1) Car Infromation:
+
+<h1 align="center">
+    <br> <img src="car_info_img.png">
+</h1>
+
+2) Media Apps:
+
+<h1 align="center">
+    <br> <img src="medias_app_img.png">
+</h1>
+
+3) To Do app:
+
+<h1 align="center">
+    <br> <img src="todo_img.png">
+</h1>
 
 ## Info: 
 
