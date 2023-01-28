@@ -4,5 +4,8 @@ venv/*
 practice_env/*
 badges/*
 .env
+FastAPI_Practice/3_TO_DO_LIST/__pycache__/*
+.pyc
+__pycache__/*
 #*.png
 #Udemy_FastApi/project/2_advanced_python_and_concepts/practice_env/*
