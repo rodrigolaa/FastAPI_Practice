@@ -4,7 +4,7 @@
 
 ## Practice FastAPI!
 <h1 align="center">
-    <br> <img src="fastapi_img.png">
+    <br> <img src="img\fastapi_img.png">
 </h1>
 
 ## Description
@@ -22,19 +22,19 @@ This project has the porpuse to build hands-on activities with FastAPI framework
 1) Car Infromation:
 
 <h1 align="center">
-    <br> <img src="car_info_img.png" height = 400 width = 700>
+    <br> <img src="img\car_info_img.png" height = 400 width = 700>
 </h1>
 
 2) Media Apps:
 
 <h1 align="center">
-    <br> <img src="medias_app_img.png" height = 400 width = 700>
+    <br> <img src="img\medias_app_img.png" height = 400 width = 700>
 </h1>
 
 3) To Do app:
 
 <h1 align="center">
-    <br> <img src="todo_img.png" height = 400 width = 700>
+    <br> <img src="img\todo_img.png" height = 400 width = 700>
 </h1>
 
 ## Info: 
